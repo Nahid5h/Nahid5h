@@ -7,7 +7,7 @@ I am Nahid. I am a Front-End Developer. As a passionate and dedicated Front-End 
 
 
 
-</br>
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nahid5h)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B7xgDe7CQT%2BmdT0IAOUqxBQ%3D%3D/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nahid5h)](https://github.com/anuraghazra/github-readme-stats)
