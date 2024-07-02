@@ -18,7 +18,7 @@ I am Nahid. I am a Front-End Developer. As a passionate and dedicated Front-End 
 </hr>
 
 
-[GitHub streak stats](https://streak-stats.demolab.com/?user=Nahid5h) 
+![GitHub metrics](https://metrics.lecoq.io/Nahid5h)  
 
 </hr>
 
