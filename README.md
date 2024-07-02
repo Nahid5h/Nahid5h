@@ -22,4 +22,4 @@ I am Nahid. I am a Front-End Developer. As a passionate and dedicated Front-End 
 
 - 🌱 I’m currently learning Next.js 
 - 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Web Development 
+- 💬 Ask me about JavaScibe
