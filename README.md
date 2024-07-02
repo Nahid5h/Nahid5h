@@ -2,6 +2,7 @@
 #### Front End Developer
 ![Front End Developer](https://media.licdn.com/dms/image/D5616AQGYLxG78sUUMQ/profile-displaybackgroundimage-shrink_350_1400/0/1719473162013?e=1725494400&v=beta&t=FkR2ctvnJJ9L_D3bXPU-aE4iIcnCfLVUTRRu270kLgw)
 
+
 I am Nahid. I am a Front-End Developer. As a passionate and dedicated Front-End Developer, I specialize in creating dynamic and responsive web applications using a robust stack of technologies including JavaScript, React, Next.js, HTML, CSS, and MongoDB. With a strong foundation in front-end development, I bring a keen eye for design and an unwavering commitment to performance and user experience
 
 
@@ -13,7 +14,7 @@ I am Nahid. I am a Front-End Developer. As a passionate and dedicated Front-End 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Nahid5h)  
 
-- 🔭 I’m currently working on JavaScript 
+
 - 🌱 I’m currently learning Next.js 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development 
