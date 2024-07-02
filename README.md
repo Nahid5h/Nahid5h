@@ -1,10 +1,16 @@
-### Hi there 👋, I 'm Nahid Hassan
-#### Front End Developer
+
 ![Front End Developer](https://media.licdn.com/dms/image/D5616AQGYLxG78sUUMQ/profile-displaybackgroundimage-shrink_350_1400/0/1719473162013?e=1725494400&v=beta&t=FkR2ctvnJJ9L_D3bXPU-aE4iIcnCfLVUTRRu270kLgw)
 
 
 I am Nahid. I am a Front-End Developer. As a passionate and dedicated Front-End Developer, I specialize in creating dynamic and responsive web applications using a robust stack of technologies including JavaScript, React, Next.js, HTML, CSS, and MongoDB. With a strong foundation in front-end development, I bring a keen eye for design and an unwavering commitment to performance and user experience
 
+- 🌱 I’m currently learning Next.js and honing my JavaScript skills.
+- 👯 I’m looking to collaborate on GitHub.
+- 💡  I am highly interested in learning and exploring new technologies. 
+- 🚀 I am currently seeking new job opportunities where I can apply my skills and experience to contribute to a dynamic and innovative team.
+
+## 🔗 Connect with Me
+</hr>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nahid5h)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B7xgDe7CQT%2BmdT0IAOUqxBQ%3D%3D/) 
@@ -12,7 +18,7 @@ I am Nahid. I am a Front-End Developer. As a passionate and dedicated Front-End 
 
 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Nahid5h)  
+
 
 
 <h3 align="left">Skills</h3>
@@ -20,6 +26,4 @@ I am Nahid. I am a Front-End Developer. As a passionate and dedicated Front-End 
 
 </br>
 
-- 🌱 I’m currently learning Next.js 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about JavaScibe
+
